@@ -1,3 +1,6 @@
+npm run generate
+public
+
 # Github Profile Viewer
 Made with Nuxtjs and WindiCSS.
 
