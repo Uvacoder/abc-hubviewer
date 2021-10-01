@@ -1,5 +1,7 @@
 npm run generate
-public
+public [x]
+dist
+
 
 # Github Profile Viewer
 Made with Nuxtjs and WindiCSS.
