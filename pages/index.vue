@@ -20,10 +20,10 @@
           class="px-8 py-4 space-y-2 justify-items-center grid bg-gray-800 text-gray-50 rounded-xl"
         >
           <img src="https://mehmetali345.xyz/profile.webp" class="w-64" alt />
-          <h1 class="font-bold text-lg">Mehmetali345Dev</h1>
+          <h1 class="font-bold text-lg">uvacoder</h1>
           <p
             class="text-md w-96 text-center"
-          >My name is Mehmet Ali. I'm full stack developer and student from Turkey. I love Vue.js and now I am learning React.</p>
+          >My name is Kimble. I'm a jack of all trades and master of none.</p>
         </div>
       </div>
     </div>
