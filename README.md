@@ -12,7 +12,7 @@ Made with Nuxtjs and WindiCSS.
 - Get basic ratings about profile (like bio etc.).
 
 # Hosting
-You can use all package managers.
+You use all package managers.
 
 For install modules:
 on yarn : ```yarn```
